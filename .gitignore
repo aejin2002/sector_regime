@@ -1,0 +1,6 @@
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+항목을 포함하는 새로운 폴더 2/

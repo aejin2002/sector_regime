@@ -1,0 +1,8 @@
+streamlit>=1.50
+pandas>=2.0
+numpy
+requests
+plotly
+yfinance>=0.2.40
+lxml
+pykrx
